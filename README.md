@@ -1,0 +1,1 @@
+En este repositorio se encontraran todos los archivos que crearé mientras este dando mis primeros pasos en el aprendizaje de base de datos
